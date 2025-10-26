@@ -104,7 +104,7 @@ async function connectToWA() {
         },
         caption: up,
       });
-      senuwa.sendMessage("94705900209@s.whatsapp.net", {
+      senuwa.sendMessage("94704206946@s.whatsapp.net", {
         image: {
           url: `https://github.com/senuff1234/Senuwa-md-whatsapp-bot/blob/main/images/ConnectedSuccessful.png?raw=true`,
         },
