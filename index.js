@@ -95,7 +95,7 @@ async function connectToWA() {
       console.log("🍁 ＳＥＮＵＷＡ － ＭＤ 🍁 installed successful ✅");
       console.log("🍁 ＳＥＮＵＷＡ － ＭＤ 🍁 connected to whatsapp ✅");
 
-      let up = `🍁 ＳＥＮＵＷＡ － ＭＤ 🍁 connected successful ✅`;
+      let up = `🍁 ＳＥＮＵＷＡ － 〽Ｄ 🍁 connected successful ✅`;
       let up1 = `Hello Senuwa, I made bot successful`;
 
       senuwa.sendMessage(ownerNumber + "@s.whatsapp.net", {
