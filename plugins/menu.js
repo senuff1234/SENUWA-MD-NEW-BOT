@@ -10,7 +10,7 @@ cmd(
     filename: __filename,
   },
   async (
-    robin,
+    senuwa,
     mek,
     m,
     {
@@ -86,13 +86,13 @@ ${menu.search}
 
 🥶𝐌𝐚𝐝𝐞 𝐛𝐲 𝐒_𝐈_𝐇_𝐈_𝐋_𝐄_𝐋🥶
 
-> ROBIN MENU MSG
+> SENUWA MENU MSG
 `;
-      await robin.sendMessage(
+      await senuwa.sendMessage(
         from,
         {
           image: {
-            url: "https://raw.githubusercontent.com/Dark-Robin/Bot-Helper/refs/heads/main/autoimage/Bot%20robin%20menu.jpg",
+            url: "https://github.com/senuff1234/Senuwa-md-whatsapp-bot/blob/main/images/Senuwa%20md%20Menu.png?raw=true",
           },
           caption: madeMenu,
         },
