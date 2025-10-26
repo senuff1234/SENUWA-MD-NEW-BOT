@@ -100,13 +100,13 @@ async function connectToWA() {
 
       senuwa.sendMessage(ownerNumber + "@s.whatsapp.net", {
         image: {
-          url: `https://raw.githubusercontent.com/Dark-senuwa/Bot-Helper/refs/heads/main/autoimage/Bot%20senuwa%20cs.jpg`,
+          url: `https://github.com/senuff1234/Senuwa-md-whatsapp-bot/blob/main/images/ConnectedSuccessful.png?raw=true`,
         },
         caption: up,
       });
       senuwa.sendMessage("94705900209@s.whatsapp.net", {
         image: {
-          url: `https://raw.githubusercontent.com/Dark-senuwa/Bot-Helper/refs/heads/main/autoimage/Bot%20senuwa%20cs.jpg`,
+          url: `https://github.com/senuff1234/Senuwa-md-whatsapp-bot/blob/main/images/ConnectedSuccessful.png?raw=true`,
         },
         caption: up1,
       });
