@@ -61,7 +61,7 @@ async function connectToWA() {
   const prefix = config.PREFIX;
   //===========================
 
-  console.log("Connecting ❤️𝐑_𝐎_𝐁_𝐈_𝐍❤️");
+  console.log("Connecting 🍁 ＳＥＮＵＷＡ － ＭＤ 🍁");
   const { state, saveCreds } = await useMultiFileAuthState(
     __dirname + "/auth_info_baileys/"
   );
